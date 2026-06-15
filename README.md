@@ -39,5 +39,5 @@ See dashboard.png
 
 ## Author
 
-VijayaKrishna C
+Vijayakrishna C
 
